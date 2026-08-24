@@ -1,0 +1,6 @@
+{
+  "name": "Cat-Wolf Channel",
+  "description": "Offizielle moderne Unternehmens- und Team-Website für Cat-Wolf Channel & Cat-Wolf Channel Group mit direktem KI-Portal-Zugang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
